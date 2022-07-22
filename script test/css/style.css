@@ -1,0 +1,18 @@
+table caption{
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:35px;
+	color:red;
+}
+table thead tr th, table tr td{
+	font-weight:bold;
+	text-transform:uppercase;
+	text-align:center;
+}
+.numberHide{
+			display:none;
+			color:red;
+			font-weight:bold;
+		}
+

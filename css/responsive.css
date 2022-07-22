@@ -1,0 +1,1534 @@
+
+@media (max-width: 319px){
+
+    p{
+        font-size: 12px;
+    }
+    .btn {
+        font-size: 14px;
+    }
+    .section-title {
+        margin: 50px 0;
+    }
+
+                    /* MENU  */
+/************************************************************/
+.menu-scroll{
+    height: 80px;
+}
+#main_menu .navbar-brand > img {
+    max-width: 75%;
+    margin-top: -24px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 340px;
+    margin-top: 15px;
+}
+#main_menu .dropdown-menu .navbar-form {
+    margin-right: 384px;
+    border: none;
+    background: transparent;
+}
+.navbar-form .form-group:last-child {
+    margin-bottom: 0;
+    margin-left: 8px;
+    margin-top: -20px;
+}
+.navbar-nav {
+    margin: 7.5px -15px;
+    background: #ffffff;
+    margin-top: 0;
+}
+#main_menu .navbar-right .dropdown .dropdown-menu {
+    right: 0;
+    left: auto;
+    margin-left: 30px;
+}
+#main_menu .dropdown .dropdown-menu > li > a {
+    display: inline-block;
+}
+
+
+            /* SLIDER  */
+/************************************************************/
+#slider-area .carousel-inner .item {
+    height: 500px;
+}
+#slider-area .carousel-inner .item img {
+    height: 500px;
+}
+#slider-area .carousel-caption {
+/padding-bottom: 70px;
+}
+#slider-area .carousel-caption h2 {
+    font-size: 15px;
+}
+#slider-area .carousel-caption p {
+    padding: 5px;
+    text-shadow: none;
+}
+#slider-area .carousel-caption a {
+    font-size: 14px;
+    padding: 5px 12px;
+    margin-top: 3px;
+}
+
+
+            /* SEE OUR ACTIVITY  */
+/************************************************************/
+#see-our-activity h3 {
+    font-size: 18px;
+}
+#see-our-activity .notice-video {
+    margin-bottom: 50px;
+}
+#see-our-activity .notice-left-wrapper {
+    margin-bottom: 100px;
+}
+
+            /* GALLERY  */
+/************************************************************/
+#gallery {
+    margin-top: 500px;
+}
+.gallery-area .hvr-rectangle-out {
+    margin-top: 22%;
+    margin-bottom: 15%;
+}
+
+    /*#######################################*/
+    /* FOR GALLERY PAGE */
+    /*#######################################*/
+    #gallery .section-title {
+        margin: 50px 0;
+    }
+    .gallery-area ul.list-inline li {
+        margin: 6px;
+    }
+
+
+
+
+            /* VOLUNTEER  */
+/************************************************************/
+#volunteer .our-team {
+    margin: 0 25px;
+}
+
+
+    /*##########################################################################*/
+                /* VOLUNTEER page */
+    /*##########################################################################*/
+
+    .margin{
+        margin-top: 500px;
+    }
+    .pagination {
+        margin-left: 10px;
+    }
+    .pagination > li > a, .pagination > li > span {
+        margin: 0 4px;
+    }
+    .pagination > li > a, .pagination > li > span {
+        padding: 5px 10px;
+    }
+
+
+
+            /* WORK WITH US  */
+/************************************************************/
+#work-with{
+    margin-top: -8px;
+}
+#work-with .col-md-12 {
+    margin: 100px 0;
+    height:250px;
+    padding:0;
+}
+#work-with .h2 {
+    font-size: 18px;
+    margin-top: 65px;
+}
+#work-with .h1 {
+    font-size: 25px;
+}
+#work-with .hvr-rectangle-out {
+    margin: 40px 0;
+}
+
+
+
+
+                /*BLOG*/
+/*!************************************************************!*/
+#blog .post-slide {
+    padding: 0 0 45px 0;
+}
+
+    /*###########################################################################*/
+                    /* BLOG PAGE */
+    /*###########################################################################*/
+    .pagination {
+        margin-left: -4px;
+    }
+    .Right-Side-Bar h5 {
+        font-size: 19px;
+    }
+    .Right-Side-Bar h6{
+        margin-top: -5px;
+    }
+
+
+        /*###########################################################################*/
+                         /* SINGLE BLOG PAGE */
+        /*###########################################################################*/
+        .single-blog .blog-details-content h2 {
+            font-size: 18px;
+            margin-top: 0;
+        }
+        .single-blog .blog-details-content h6 {
+            font-size: 14px;
+        }
+
+
+            /* SPONER  */
+/************************************************************/
+#sponser hr {
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    border: 0;
+    /* border-top: 1px solid #eee; */
+    margin-bottom: -19px;
+}
+
+
+            /* FOOTER  */
+/************************************************************/
+.footer {
+    width: 100%;
+    text-align: center;
+    background: #1d1d1d;
+    padding: 55px 10px;
+}
+.icons a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 100%;
+}
+.footer .copy-right p {
+    color: #ffffff;
+    font-size: 11px;
+}
+
+
+
+
+/*##########################################################################*/
+                /* ABOUT PAGE */
+/*##########################################################################*/
+#banner .banner_fullscreen_image .overlay .banner-middel-text {
+    margin-top: 45px;
+}
+#banner .banner_fullscreen_image {
+    height: 500px;
+}
+#banner .banner_fullscreen_image .overlay .banner-middel-text .title {
+    font-size: 30px;
+}
+#banner .breadcrumb li {
+    font-size: 16px;
+}
+#banner p {
+    margin: 15px 20px -15px;
+}
+.breadcrumb {
+    padding: 5px 8px;
+}
+
+
+
+#banner {
+    margin-bottom: -495px;
+}
+
+                /* ABOUT  */
+/************************************************************/
+#about {
+    margin-top: 500px;
+}
+#about .aboutme-content .my-info .my-name h3 {
+    margin-top: 40px;
+}
+#about .icons a {
+    width: 30px;
+    height: 30px;
+    line-height: 29px;
+    font-size: 18px;
+}
+
+
+                /* COUNTER  */
+/************************************************************/
+#counter .main_counter_content .single_counter i {
+    font-size: 45px;
+}
+#counter .main_counter_content .single_counter h2 {
+    font-size: 23px;
+    margin-top: 0;
+}
+#counter .main_counter_content .single_counter p {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+#counter .main_counter_content .single_counter {
+    margin: 25px 0;
+}
+
+
+                /* OUR MISSION  */
+/************************************************************/
+
+#mission .serviceBox {
+    margin: 115px 0;
+}
+
+
+            /* TESTIMONIAL */
+/************************************************************/
+.carousel-indicators li {
+    float: left;
+}
+.testimonial #quote-carousel .carousel-indicators .active {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+/*##########################################################################*/
+                /* CONTACT PAGE */
+/*##########################################################################*/
+#contact_top {
+    margin-top: 530px;
+}
+#contact_top h4{
+    font-size: 15px;
+}
+#contact_top .icons a {
+    width: 30px;
+    height: 30px;
+    line-height: 33px;
+    font-size: 16px;
+    margin: 0 -1px 0;
+}
+#contact_top .icons a:hover{
+    color:#ffffff !important;
+}
+#contact_top img {
+    width: 30%;
+}
+figure {
+    margin-bottom: 20px;
+}
+
+
+        /* CONTACT */
+/*!************************************************************!*/
+#contact {
+    padding-top: 70px;
+}
+.panel-title span {
+    left: 23%;
+    font-size: 18px;
+}
+.panel-title .fa-map-marker {
+    font-size: 60px;
+}
+
+
+
+/*##########################################################################*/
+                /* BLOOD DONATE PAGE */
+/*##########################################################################*/
+#need-to-know{
+    margin-top: 530px;
+}
+#need-to-know .need-to-knowt-wrapper h2 {
+    margin-top: 50px;
+}
+#blood-group-count h3 {
+    font-size: 36px;
+    margin: 25px 0 -30px 0;
+}
+
+
+
+
+
+
+/*##########################################################################*/
+                /* UPCOMING PAGE */
+/*##########################################################################*/
+.upcoming-event-info a img {
+    margin-top: 10px;
+}
+#upcoming-event-slider img {
+    height: 485px;
+}
+.upcoming-event-info {
+    height: 485px;
+}
+.upcoming-event-info h2 {
+    line-height: 1.5em;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.upcoming-event-info #clock {
+    top:270px;
+}
+.upcoming-event-info #clock span{
+    font-size: 35px;
+}
+.upcoming-event-info .icons {
+    margin-top: 0;
+    position: absolute;
+    top: 400px;
+}
+.upcoming-event-info .copy-right{
+    position: absolute;
+    top: 427px;
+    left: 0;
+    color:#ffffff;
+    font-size: 11px;
+}
+.upcoming-event-info .copy-right a{
+    color:#FF0000;
+}
+
+
+
+/*######################################################################*/
+            /* PAGE 404 */
+/*######################################################################*/
+.content404 h2 {
+    font-size: 75px;
+}
+.content404 h3 {
+    font-size: 22px;
+}
+}
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+
+    p{
+        font-size: 12px;
+    }
+    .btn {
+        font-size: 14px;
+    }
+    .section-title {
+        margin: 50px 0;
+    }
+
+    /* MENU  */
+    /************************************************************/
+    .menu-scroll{
+        height: 80px;
+    }
+    #main_menu .navbar-brand > img {
+        max-width: 75%;
+        margin-top: -24px;
+    }
+    .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+        max-height: 340px;
+        margin-top: 15px;
+    }
+    #main_menu .dropdown-menu .navbar-form {
+        margin-right: 384px;
+        border: none;
+        background: transparent;
+    }
+    .navbar-form .form-group:last-child {
+        margin-bottom: 0;
+        margin-left: 8px;
+        margin-top: -20px;
+    }
+    .navbar-nav {
+        margin: 7.5px -15px;
+        background: #ffffff;
+        margin-top: 0;
+    }
+    #main_menu .navbar-right .dropdown .dropdown-menu {
+        right: 0;
+        left: auto;
+        margin-left: 30px;
+    }
+    #main_menu .dropdown .dropdown-menu > li > a {
+        display: inline-block;
+    }
+
+
+    /* SLIDER  */
+    /************************************************************/
+    #slider-area .carousel-inner .item {
+        height: 500px;
+    }
+    #slider-area .carousel-inner .item img {
+        height: 500px;
+    }
+    #slider-area .carousel-caption {
+    /padding-bottom: 70px;
+    }
+    #slider-area .carousel-caption h2 {
+        font-size: 15px;
+    }
+    #slider-area .carousel-caption p {
+        padding: 5px;
+        text-shadow: none;
+    }
+    #slider-area .carousel-caption a {
+        font-size: 14px;
+        padding: 5px 12px;
+        margin-top: 3px;
+    }
+
+
+    /* SEE OUR ACTIVITY  */
+    /************************************************************/
+    #see-our-activity h3 {
+        font-size: 18px;
+    }
+    #see-our-activity .notice-video {
+        margin-bottom: 50px;
+    }
+    #see-our-activity .notice-left-wrapper {
+        margin-bottom: 100px;
+    }
+
+    /* GALLERY  */
+    /************************************************************/
+    #gallery {
+        margin-top: 500px;
+    }
+    .gallery-area .hvr-rectangle-out {
+        margin-top: 22%;
+        margin-bottom: 15%;
+    }
+
+    /*#######################################*/
+    /* FOR GALLERY PAGE */
+    /*#######################################*/
+    #gallery .section-title {
+        margin: 50px 0;
+    }
+    .gallery-area ul.list-inline li {
+        margin: 6px;
+    }
+
+
+
+
+    /* VOLUNTEER  */
+    /************************************************************/
+    #volunteer .our-team {
+        margin: 0 25px;
+    }
+
+
+    /*##########################################################################*/
+    /* VOLUNTEER page */
+    /*##########################################################################*/
+
+    .margin{
+        margin-top: 500px;
+    }
+    .pagination {
+        margin-left: 10px;
+    }
+    .pagination > li > a, .pagination > li > span {
+        margin: 0 4px;
+    }
+    .pagination > li > a, .pagination > li > span {
+        padding: 5px 10px;
+    }
+
+
+
+    /* WORK WITH US  */
+    /************************************************************/
+    #work-with{
+        margin-top: -8px;
+    }
+    #work-with .col-md-12 {
+        margin: 100px 0;
+        height:250px;
+        padding:0;
+    }
+    #work-with .h2 {
+        font-size: 18px;
+        margin-top: 65px;
+    }
+    #work-with .h1 {
+        font-size: 25px;
+    }
+    #work-with .hvr-rectangle-out {
+        margin: 40px 0;
+    }
+
+
+
+
+    /*BLOG*/
+    /*!************************************************************!*/
+    #blog .post-slide {
+        padding: 0 0 45px 0;
+    }
+
+    /*###########################################################################*/
+    /* BLOG PAGE */
+    /*###########################################################################*/
+    .pagination {
+        margin-left: -4px;
+    }
+    .Right-Side-Bar h5 {
+        font-size: 19px;
+    }
+    .Right-Side-Bar h6{
+        margin-top: -5px;
+    }
+
+
+    /*###########################################################################*/
+    /* SINGLE BLOG PAGE */
+    /*###########################################################################*/
+    .single-blog .blog-details-content h2 {
+        font-size: 18px;
+        margin-top: 0;
+    }
+    .single-blog .blog-details-content h6 {
+        font-size: 14px;
+    }
+
+
+    /* SPONER  */
+    /************************************************************/
+    #sponser hr {
+        /* margin-top: 20px; */
+        /* margin-bottom: 20px; */
+        border: 0;
+        /* border-top: 1px solid #eee; */
+        margin-bottom: -19px;
+    }
+
+
+    /* FOOTER  */
+    /************************************************************/
+    .footer {
+        width: 100%;
+        text-align: center;
+        background: #1d1d1d;
+        padding: 55px 10px;
+    }
+    .icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 18px;
+        border-radius: 100%;
+    }
+    .footer .copy-right p {
+        color: #ffffff;
+        font-size: 11px;
+    }
+
+
+
+
+    /*##########################################################################*/
+    /* ABOUT PAGE */
+    /*##########################################################################*/
+    #banner .banner_fullscreen_image .overlay .banner-middel-text {
+        margin-top: 45px;
+    }
+    #banner .banner_fullscreen_image {
+        height: 500px;
+    }
+    #banner .banner_fullscreen_image .overlay .banner-middel-text .title {
+        font-size: 30px;
+    }
+    #banner .breadcrumb li {
+        font-size: 16px;
+    }
+    #banner p {
+        margin: 15px 20px -15px;
+    }
+    .breadcrumb {
+        padding: 5px 8px;
+    }
+
+
+
+    #banner {
+        margin-bottom: -495px;
+    }
+
+    /* ABOUT  */
+    /************************************************************/
+    #about {
+        margin-top: 500px;
+    }
+    #about .aboutme-content .my-info .my-name h3 {
+        margin-top: 40px;
+    }
+    #about .icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 18px;
+    }
+
+
+    /* COUNTER  */
+    /************************************************************/
+    #counter .main_counter_content .single_counter i {
+        font-size: 45px;
+    }
+    #counter .main_counter_content .single_counter h2 {
+        font-size: 23px;
+        margin-top: 0;
+    }
+    #counter .main_counter_content .single_counter p {
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+    #counter .main_counter_content .single_counter {
+        margin: 25px 0;
+    }
+
+
+    /* OUR MISSION  */
+    /************************************************************/
+
+    #mission .serviceBox {
+        margin: 115px 0;
+    }
+
+
+    /* TESTIMONIAL */
+    /************************************************************/
+    .carousel-indicators li {
+        float: left;
+    }
+    .testimonial #quote-carousel .carousel-indicators .active {
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+
+
+
+
+    /*##########################################################################*/
+    /* CONTACT PAGE */
+    /*##########################################################################*/
+    #contact_top {
+        margin-top: 530px;
+    }
+    #contact_top h4{
+        font-size: 15px;
+    }
+    #contact_top .icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 33px;
+        font-size: 16px;
+        margin: 0 -1px 0;
+    }
+    #contact_top .icons a:hover{
+        color:#ffffff !important;
+    }
+    #contact_top img {
+        width: 30%;
+    }
+    figure {
+        margin-bottom: 20px;
+    }
+
+
+    /* CONTACT */
+    /*!************************************************************!*/
+    #contact {
+        padding-top: 70px;
+    }
+    .panel-title span {
+        left: 23%;
+        font-size: 18px;
+    }
+    .panel-title .fa-map-marker {
+        font-size: 60px;
+    }
+
+
+
+    /*##########################################################################*/
+    /* BLOOD DONATE PAGE */
+    /*##########################################################################*/
+    #need-to-know{
+        margin-top: 530px;
+    }
+    #need-to-know .need-to-knowt-wrapper h2 {
+        margin-top: 50px;
+    }
+    #blood-group-count h3 {
+        font-size: 36px;
+        margin: 25px 0 -30px 0;
+    }
+
+
+
+
+
+
+    /*##########################################################################*/
+    /* UPCOMING PAGE */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 10px;
+    }
+    #upcoming-event-slider img {
+        height: 485px;
+    }
+    .upcoming-event-info {
+        height: 485px;
+    }
+    .upcoming-event-info h2 {
+        line-height: 1.5em;
+        font-size: 14px;
+        margin-top: 25px;
+    }
+    .upcoming-event-info #clock {
+        top:270px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 35px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 400px;
+    }
+    .upcoming-event-info .copy-right{
+        position: absolute;
+        top: 427px;
+        left: 0;
+        color:#ffffff;
+        font-size: 11px;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+
+
+
+    /*######################################################################*/
+    /* PAGE 404 */
+    /*######################################################################*/
+    .content404 h2 {
+        font-size: 75px;
+    }
+    .content404 h3 {
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+@media (min-width: 360px) and (max-width: 640px){
+/************************************************************/
+                /* HOME PAGE */
+/************************************************************/
+
+
+                /* SLIDER  */
+/************************************************************/
+.slider-area .carousel-caption p {
+    padding: 10px;
+}
+
+
+
+
+
+/* volunteer  */
+/************************************************************/
+.pagination {
+    margin-left: 25px;
+}
+
+
+
+
+    /*##########################################################################*/
+    /* upcomimg event page */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 80px;
+    }
+    #upcoming-event-slider img {
+        height: 640px;
+    }
+    .upcoming-event-info {
+        height: 640px;
+    }
+    .upcoming-event-info h2 {
+        line-height: 1.5em;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .upcoming-event-info #clock {
+        top:365px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 40px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 550px;
+    }
+    .upcoming-event-info .copy-right{
+        position: absolute;
+        top: 585px;
+        left: 0;
+        color:#ffffff;
+        font-size: 11px;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+}
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+.btn {
+    font-size: 14px;
+}
+.section-title {
+    margin: 80px 0;
+}
+
+/* menu  */
+/************************************************/
+.navbar-nav{
+    background-color: #ffffff;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    margin-top: 20px;
+    /text-align: center;
+}
+#main_menu .dropdown-menu .navbar-form {
+    margin-right: 700px;
+    background: transparent;
+    border: none;
+}
+
+
+
+                /* SLIDER  */
+/************************************************/
+#slider-area .carousel-caption h2 {
+    font-size: 25px;
+}
+#slider-area .carousel-caption p {
+    padding: 15px;
+}
+#slider-area .carousel-caption a {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+
+
+
+
+
+    /* Featurees  */
+/************************************************/
+
+#features .feature-left .icon i {
+    font-size: 60px;
+}
+
+    /* see-our-activity  */
+    /************************************************/
+    #see-our-activity .notice-video {
+        margin-bottom: 50px;
+    }
+
+
+            /* gallery  */
+/************************************************/
+#gallery {
+    margin-top: 500px;
+}
+.gallery-area ul.list-inline li {
+    margin: 2px;
+    padding: 4px;
+}
+        /*###########################################################################*/
+                /* gallery */
+        /*###########################################################################*/
+
+
+
+
+            /* volunteer  */
+/************************************************/
+#volunteer {
+     margin-top: 0;
+    /margin-bottom: -65px;
+}
+    /*###########################################################################*/
+    /* volunteer */
+    /*###########################################################################*/
+    .margin{
+        margin-top: 500px;
+    }
+    .pagination {
+        margin-left: 15%;
+    }
+
+
+
+
+            /* work with  */
+/************************************************/
+#work-with {
+    margin-top: -38px;
+}
+#work-with .col-md-12 {
+    padding: 50px 0;
+    margin: 45px 0;
+}
+#work-with .h2 {
+    font-size: 25px;
+    margin-top: 55px;
+}
+#work-with .h1 {
+    font-size: 35px;
+}
+
+
+
+             /* blog  */
+/************************************************/
+#blog .post-slide {
+    padding-bottom: 50px;
+}
+
+
+    /* sponser  */
+    /************************************************/
+    #sponser {
+        margin-bottom: -8px;
+    }
+    #sponser hr{
+        display: none !important;
+    }
+
+
+
+        /* footer  */
+/************************************************/
+.icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 41px;
+    font-size: 24px;
+}
+
+
+
+/*##########################################################################*/
+/* about page */
+/*##########################################################################*/
+    #banner .banner_fullscreen_image .overlay .banner-middel-text .title {
+        font-size: 45px;
+    }
+    #banner p {
+        margin: 0 20px 10px;
+    }
+    #about .aboutme-content .my-info .my-name h3 {
+        margin-top: 40px;
+    }
+    #banner {
+        margin-bottom: -500px;
+    }
+
+
+    #about {
+        margin-top: 500px;
+    }
+
+    /* counter  */
+    /************************************************/
+    #counter .main_counter_content .single_counter {
+       margin: 0;
+    }
+    #counter .main_counter_content .single_counter i {
+         margin-bottom: 0;
+    }
+
+
+    /* mission  */
+/************************************************/
+    #mission .serviceBox {
+        margin: 115px 0;
+    }
+
+
+    /* testimonial  */
+    /************************************************/
+    .testimonial #quote-carousel .carousel-indicators .active {
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+
+    /*##########################################################################*/
+    /* contact page */
+    /*##########################################################################*/
+    #contact_top {
+        margin-top: 530px;
+    }
+    figure {
+        margin-bottom: 30px;
+    }
+    #contact_top .icons a {
+        margin: 0 3px 0;
+    }
+    #contact {
+        padding-top: 50px;
+    }
+    .panel-title span {
+        position: absolute;
+        top: 85px;
+        left: 28%;
+    }
+
+
+    /*##########################################################################*/
+    /* blood donate page */
+    /*##########################################################################*/
+    #need-to-know{
+        margin-top: 530px;
+    }
+    #need-to-know .need-to-knowt-wrapper h2 {
+        margin-top: 50px;
+    }
+
+
+
+    /*##########################################################################*/
+    /* upcomimg event page */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 110px;
+    }
+    #upcoming-event-slider img {
+        height: 767px;
+    }
+    .upcoming-event-info {
+        height: 767px;
+    }
+    .upcoming-event-info h2 {
+        line-height: 1.8em;
+        font-size: 16px;
+        margin-top: 75px;
+    }
+    .upcoming-event-info #clock {
+        top: 470px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 60px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 675px;
+    }
+    .upcoming-event-info .copy-right{
+        position: absolute;
+        top: 715px;
+        left: 0;
+        color:#ffffff;
+        font-size: 11px;
+    }
+    .upcoming-event-info .copy-right p {
+        margin: 20px 0 0;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+
+    /*#######################################*/
+    /* page 404 */
+    /*#######################################*/
+    .content404 h2 {
+        font-size: 150px;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+
+
+
+                /* menu  */
+/************************************************/
+    #main_menu .dropdown-menu {
+        margin: 2px 15px 0;
+    }
+    #main_menu .main_menu_bg .navbar-nav > li > a {
+        font-size: 12px;
+    }
+    #main_menu .navbar-right .dropdown .dropdown-menu {
+        right: -50px;
+    }
+                /* SLIDER  */
+/************************************************/
+    #slider-area .carousel-caption {
+        padding-bottom: 105px;
+    }
+    #slider-area .carousel-caption h2 {
+        font-size: 20px;
+        padding: 20px;
+    }
+    #slider-area .carousel-caption p {
+        padding: 25px;
+    }
+
+
+
+
+    /* featuress */
+/************************************************/
+#features .feature-left .icon i {
+    font-size: 55px;
+}
+
+    /*  see-our-activity */
+/************************************************/
+#see-our-activity h3 {
+    font-size: 20px;
+}
+
+    /* work with   */
+/************************************************/
+#work-with {
+    margin-top: -40px;
+}
+
+    /* sponser  */
+/************************************************/
+#sponser {
+    margin-bottom: -7px;
+}
+
+    /*##########################################################################*/
+    /* about page */
+    /*##########################################################################*/
+
+    #counter .main_counter_content .single_counter {
+        margin: 0;
+    }
+    #counter .main_counter_content .single_counter i {
+        margin-bottom: 0;
+    }
+
+
+
+
+    /*###################################################################*/
+    /* contact page */
+    /*###################################################################*/
+    .panel-title span {
+        left: 36%;
+    }
+
+
+
+
+
+
+    /*##########################################################################*/
+    /* upcomimg event page */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 110px;
+    }
+    #upcoming-event-slider img {
+        height: 991px;
+    }
+    .upcoming-event-info {
+        height: 991px;
+    }
+    .upcoming-event-info h2 {
+        line-height: 1.8em;
+        font-size: 22px;
+        margin-top: 75px;
+    }
+    .upcoming-event-info #clock {
+        top: 530px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 85px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 850px;
+    }
+    .upcoming-event-info .copy-right {
+        position: absolute;
+        top: 929px;
+        left: 9px;
+        color: #ffffff;
+        font-size: 12px;
+    }
+    .upcoming-event-info .copy-right p {
+        margin: 20px 0 0;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+
+
+}
+
+
+
+                                    /**********************************/
+/*@media (min-width: 768px) and (max-width: 1024px){
+    #slider-area .carousel-caption {
+        padding-bottom: 0;
+    }
+    #work-with {
+        margin-top: -38px;
+    }
+    #banner .banner_fullscreen_image .overlay .banner-middel-text {
+        margin-top: 40px;
+    }
+    #banner .banner-middel-text p{
+        margin: 0 150px 10px;
+    }
+    .pagination {
+        margin-left: 28%;
+    }
+}*/
+
+
+
+
+@media (min-width: 800px) and (max-width: 1280px){}
+
+
+
+
+
+@media (min-width: 980px) and (max-width: 1280px){
+    .panel-title span {
+        left: 42%;
+    }
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1024px){
+
+/* menu  */
+/************************************************/
+#main_menu .dropdown-menu {
+    margin: 2px 15px 0;
+}
+
+                /* SLIDER  */
+/************************************************/
+    #slider-area .carousel-caption h2 {
+        font-size: 25px;
+    }
+    #slider-area .carousel-caption p {
+        padding: 25px 30px;
+    }
+    .footer {
+        margin-top: 2px;
+    }
+
+
+
+    #banner .banner_fullscreen_image .overlay .banner-middel-text {
+        margin-top: 45px;
+    }
+    #banner .banner-middel-text p{
+        margin: 0 220px 10px;
+    }
+
+    .pagination {
+        margin-left: 30%;
+    }
+    /*###################################################################*/
+    /* contact page */
+    /*###################################################################*/
+    .panel-title span {
+        left: 40%;
+    }
+
+
+
+
+
+    /*##########################################################################*/
+    /* upcomimg event page */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 110px;
+    }
+    #upcoming-event-slider img {
+        height: 1024px;
+    }
+    .upcoming-event-info {
+        height: 1024px;
+    }
+    .upcoming-event-info h2 {
+        line-height: 1.8em;
+        font-size: 22px;
+        margin-top: 75px;
+    }
+    .upcoming-event-info #clock {
+        top: 530px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 85px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 850px;
+    }
+    .upcoming-event-info .copy-right {
+        position: absolute;
+        top: 929px;
+        left: 9px;
+        color: #ffffff;
+        font-size: 12px;
+    }
+    .upcoming-event-info .copy-right p {
+        margin: 20px 0 0;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 1025px) and (max-width: 1223px){
+    /*###################################################################*/
+    /* contact page */
+    /*###################################################################*/
+    .panel-title span {
+        left: 40%;
+    }
+
+
+
+    /*##########################################################################*/
+    /* upcomimg event page */
+    /*##########################################################################*/
+    .upcoming-event-info a img {
+        margin-top: 110px;
+    }
+    #upcoming-event-slider img {
+        height: 1223px;
+    }
+    .upcoming-event-info {
+        height: 1223px;
+    }
+    /.upcoming-event-info h2 {
+        line-height: 1.8em;
+        font-size: 22px;
+        margin-top: 75px;
+    }
+    .upcoming-event-info #clock {
+        top: 680px;
+    }
+    .upcoming-event-info #clock span{
+        font-size: 85px;
+    }
+    .upcoming-event-info .icons {
+        margin-top: 0;
+        position: absolute;
+        top: 1100px;
+    }
+    .upcoming-event-info .copy-right {
+        position: absolute;
+        top: 1155px;
+        left: 9px;
+        color: #ffffff;
+        font-size: 12px;
+    }
+    .upcoming-event-info .copy-right p {
+        margin: 20px 0 0;
+    }
+    .upcoming-event-info .copy-right a{
+        color:#FF0000;
+    }
+
+}
+
+
+
+
+
+@media only screen and (min-width: 1224px){}
+
+
+
+
+
+
+
+
+
+
+
+

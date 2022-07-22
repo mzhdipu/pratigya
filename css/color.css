@@ -1,0 +1,655 @@
+/****************************************************************************/
+/* colorswitch 02 */
+/****************************************************************************/
+
+body.colorswitch2 .hvr-rectangle-out,
+body.colorswitch2 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch2 #slider-area .carousel-control i:hover,
+body.colorswitch2 #volunteer .our-team .pic:before,
+body.colorswitch2 #volunteer .our-team .pic:after,
+body.colorswitch2 #volunteer .our-team .social,
+body.colorswitch2 .gallery-area ul.list-inline li,
+body.colorswitch2 #mission .serviceBox .service-icon,
+body.colorswitch2 #mission .serviceBox .read-more i,
+body.colorswitch2 .pagination > .active > a,
+body.colorswitch2 .pagination > .active > a:focus,
+body.colorswitch2 .pagination > .active > a:hover,
+body.colorswitch2 .pagination > .active > span,
+body.colorswitch2 .pagination > .active > span:focus,
+body.colorswitch2 .pagination > .active > span:hover{
+    background-color:#FA0100;
+}
+
+body.colorswitch2 .section-title span,
+body.colorswitch2 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch2 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch2 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch2 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch2 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch2 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch2 #features .feature-left .icon i,
+body.colorswitch2 #blog .post-slide .post-title > a:hover,
+body.colorswitch2 #blog .post-bar > li > a:hover,
+body.colorswitch2 .gallery-area .list-inline li.active,
+body.colorswitch2 #banner .breadcrumb li a,
+body.colorswitch2 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch2 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch2 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch2 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch2 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch2 .club-bld-grp-list h3,
+body.colorswitch2 .content404 h2{
+    color:#FA0100;
+}
+
+body.colorswitch2 #slider-area .carousel-caption a:hover,
+body.colorswitch2 #about .aboutme-content .my-info .more-info,
+body.colorswitch2 #mission .serviceBox:hover,
+body.colorswitch2 #mission .serviceBox:hover .read-more{
+    border-color: #FA0100;
+}
+
+body.colorswitch2 .btn{
+    border: 1px solid #FA0100;
+}
+body.colorswitch2 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #FA0100;
+}
+
+
+body.colorswitch2 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch2 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch2 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #FA0100;
+}
+
+
+/****************************************************************************/
+/* colorswitch 03 */
+/****************************************************************************/
+
+body.colorswitch3 .hvr-rectangle-out,
+body.colorswitch3 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch3 #slider-area .carousel-control i:hover,
+body.colorswitch3 #volunteer .our-team .pic:before,
+body.colorswitch3 #volunteer .our-team .pic:after,
+body.colorswitch3 #volunteer .our-team .social,
+body.colorswitch3 .gallery-area ul.list-inline li,
+body.colorswitch3 #mission .serviceBox .service-icon,
+body.colorswitch3 #mission .serviceBox .read-more i,
+body.colorswitch3 .pagination > .active > a,
+body.colorswitch3 .pagination > .active > a:focus,
+body.colorswitch3 .pagination > .active > a:hover,
+body.colorswitch3 .pagination > .active > span,
+body.colorswitch3 .pagination > .active > span:focus,
+body.colorswitch3 .pagination > .active > span:hover{
+    background-color:#0B7900;
+}
+
+body.colorswitch3 .section-title span,
+body.colorswitch3 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch3 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch3 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch3 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch3 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch3 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch3 #features .feature-left .icon i,
+body.colorswitch3 #blog .post-slide .post-title > a:hover,
+body.colorswitch3 #blog .post-bar > li > a:hover,
+body.colorswitch3 .gallery-area .list-inline li.active,
+body.colorswitch3 #banner .breadcrumb li a,
+body.colorswitch3 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch3 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch3 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch3 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch3 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch3 .club-bld-grp-list h3,
+body.colorswitch3 .content404 h2{
+    color:#0B7900;
+}
+
+body.colorswitch3 #slider-area .carousel-caption a:hover,
+body.colorswitch3 #about .aboutme-content .my-info .more-info,
+body.colorswitch3 #mission .serviceBox:hover,
+body.colorswitch3 #mission .serviceBox:hover .read-more{
+    border-color: #0B7900;
+}
+
+body.colorswitch3 .btn{
+    border: 1px solid #0B7900;
+}
+body.colorswitch3 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #0B7900;
+}
+
+
+body.colorswitch3 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch3 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch3 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #0B7900;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 04 */
+/****************************************************************************/
+
+body.colorswitch4 .hvr-rectangle-out,
+body.colorswitch4 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch4 #slider-area .carousel-control i:hover,
+body.colorswitch4 #volunteer .our-team .pic:before,
+body.colorswitch4 #volunteer .our-team .pic:after,
+body.colorswitch4 #volunteer .our-team .social,
+body.colorswitch4 .gallery-area ul.list-inline li,
+body.colorswitch4 #mission .serviceBox .service-icon,
+body.colorswitch4 #mission .serviceBox .read-more i,
+body.colorswitch4 .pagination > .active > a,
+body.colorswitch4 .pagination > .active > a:focus,
+body.colorswitch4 .pagination > .active > a:hover,
+body.colorswitch4 .pagination > .active > span,
+body.colorswitch4 .pagination > .active > span:focus,
+body.colorswitch4 .pagination > .active > span:hover{
+    background-color:#FE9D00;
+}
+
+body.colorswitch4 .section-title span,
+body.colorswitch4 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch4 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch4 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch4 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch4 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch4 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch4 #features .feature-left .icon i,
+body.colorswitch4 #blog .post-slide .post-title > a:hover,
+body.colorswitch4 #blog .post-bar > li > a:hover,
+body.colorswitch4 .gallery-area .list-inline li.active,
+body.colorswitch4 #banner .breadcrumb li a,
+body.colorswitch4 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch4 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch4 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch4 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch4 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch4 .club-bld-grp-list h3,
+body.colorswitch4 .content404 h2{
+    color:#FE9D00;
+}
+
+body.colorswitch4 #slider-area .carousel-caption a:hover,
+body.colorswitch4 #about .aboutme-content .my-info .more-info,
+body.colorswitch4 #mission .serviceBox:hover,
+body.colorswitch4 #mission .serviceBox:hover .read-more{
+    border-color: #FE9D00;
+}
+
+body.colorswitch4 .btn{
+    border: 1px solid #FE9D00;
+}
+body.colorswitch4 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #FE9D00;
+}
+
+
+body.colorswitch4 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch4 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch4 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #FE9D00;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 05 */
+/****************************************************************************/
+
+body.colorswitch5 .hvr-rectangle-out,
+body.colorswitch5 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch5 #slider-area .carousel-control i:hover,
+body.colorswitch5 #volunteer .our-team .pic:before,
+body.colorswitch5 #volunteer .our-team .pic:after,
+body.colorswitch5 #volunteer .our-team .social,
+body.colorswitch5 .gallery-area ul.list-inline li,
+body.colorswitch5 #mission .serviceBox .service-icon,
+body.colorswitch5 #mission .serviceBox .read-more i,
+body.colorswitch5 .pagination > .active > a,
+body.colorswitch5 .pagination > .active > a:focus,
+body.colorswitch5 .pagination > .active > a:hover,
+body.colorswitch5 .pagination > .active > span,
+body.colorswitch5 .pagination > .active > span:focus,
+body.colorswitch5 .pagination > .active > span:hover{
+    background-color:#749BA2;
+}
+
+body.colorswitch5 .section-title span,
+body.colorswitch5 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch5 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch5 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch5 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch5 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch5 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch5 #features .feature-left .icon i,
+body.colorswitch5 #blog .post-slide .post-title > a:hover,
+body.colorswitch5 #blog .post-bar > li > a:hover,
+body.colorswitch5 .gallery-area .list-inline li.active,
+body.colorswitch5 #banner .breadcrumb li a,
+body.colorswitch5 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch5 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch5 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch5 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch5 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch5 .club-bld-grp-list h3,
+body.colorswitch5 .content404 h2{
+    color:#749BA2;
+}
+
+body.colorswitch5 #slider-area .carousel-caption a:hover,
+body.colorswitch5 #about .aboutme-content .my-info .more-info,
+body.colorswitch5 #mission .serviceBox:hover,
+body.colorswitch5 #mission .serviceBox:hover .read-more{
+    border-color: #749BA2;
+}
+
+body.colorswitch5 .btn{
+    border: 1px solid #749BA2;
+}
+body.colorswitch5 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #749BA2;
+}
+
+
+body.colorswitch5 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch5 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch5 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #749BA2;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 06 */
+/****************************************************************************/
+
+body.colorswitch6 .hvr-rectangle-out,
+body.colorswitch6 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch6 #slider-area .carousel-control i:hover,
+body.colorswitch6 #volunteer .our-team .pic:before,
+body.colorswitch6 #volunteer .our-team .pic:after,
+body.colorswitch6 #volunteer .our-team .social,
+body.colorswitch6 .gallery-area ul.list-inline li,
+body.colorswitch6 #mission .serviceBox .service-icon,
+body.colorswitch6 #mission .serviceBox .read-more i,
+body.colorswitch6 .pagination > .active > a,
+body.colorswitch6 .pagination > .active > a:focus,
+body.colorswitch6 .pagination > .active > a:hover,
+body.colorswitch6 .pagination > .active > span,
+body.colorswitch6 .pagination > .active > span:focus,
+body.colorswitch6 .pagination > .active > span:hover{
+    background-color:#111111;
+}
+
+body.colorswitch6 .section-title span,
+body.colorswitch6 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch6 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch6 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch6 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch6 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch6 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch6 #features .feature-left .icon i,
+body.colorswitch6 #blog .post-slide .post-title > a:hover,
+body.colorswitch6 #blog .post-bar > li > a:hover,
+body.colorswitch6 .gallery-area .list-inline li.active,
+body.colorswitch6 #banner .breadcrumb li a,
+body.colorswitch6 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch6 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch6 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch6 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch6 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch6 .club-bld-grp-list h3,
+body.colorswitch6 .content404 h2{
+    color:#111111;
+}
+
+body.colorswitch6 #slider-area .carousel-caption a:hover,
+body.colorswitch6 #about .aboutme-content .my-info .more-info,
+body.colorswitch6 #mission .serviceBox:hover,
+body.colorswitch6 #mission .serviceBox:hover .read-more{
+    border-color: #111111;
+}
+
+body.colorswitch6 .btn{
+    border: 1px solid #111111;
+}
+body.colorswitch6 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #111111;
+}
+
+
+body.colorswitch6 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch6 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch6 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #111111;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 07 */
+/****************************************************************************/
+
+body.colorswitch7 .hvr-rectangle-out,
+body.colorswitch7 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch7 #slider-area .carousel-control i:hover,
+body.colorswitch7 #volunteer .our-team .pic:before,
+body.colorswitch7 #volunteer .our-team .pic:after,
+body.colorswitch7 #volunteer .our-team .social,
+body.colorswitch7 .gallery-area ul.list-inline li,
+body.colorswitch7 #mission .serviceBox .service-icon,
+body.colorswitch7 #mission .serviceBox .read-more i,
+body.colorswitch7 .pagination > .active > a,
+body.colorswitch7 .pagination > .active > a:focus,
+body.colorswitch7 .pagination > .active > a:hover,
+body.colorswitch7 .pagination > .active > span,
+body.colorswitch7 .pagination > .active > span:focus,
+body.colorswitch7 .pagination > .active > span:hover{
+    background-color:#A08600;
+}
+
+body.colorswitch7 .section-title span,
+body.colorswitch7 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch7 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch7 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch7 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch7 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch7 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch7 #features .feature-left .icon i,
+body.colorswitch7 #blog .post-slide .post-title > a:hover,
+body.colorswitch7 #blog .post-bar > li > a:hover,
+body.colorswitch7 .gallery-area .list-inline li.active,
+body.colorswitch7 #banner .breadcrumb li a,
+body.colorswitch7 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch7 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch7 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch7 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch7 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch7 .club-bld-grp-list h3,
+body.colorswitch7 .content404 h2{
+    color:#A08600;
+}
+
+body.colorswitch7 #slider-area .carousel-caption a:hover,
+body.colorswitch7 #about .aboutme-content .my-info .more-info,
+body.colorswitch7 #mission .serviceBox:hover,
+body.colorswitch7 #mission .serviceBox:hover .read-more{
+    border-color: #A08600;
+}
+
+body.colorswitch7 .btn{
+    border: 1px solid #A08600;
+}
+body.colorswitch7 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #A08600;
+}
+
+
+body.colorswitch7 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch7 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch7 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #A08600;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 08 */
+/****************************************************************************/
+
+body.colorswitch8 .hvr-rectangle-out,
+body.colorswitch8 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch8 #slider-area .carousel-control i:hover,
+body.colorswitch8 #volunteer .our-team .pic:before,
+body.colorswitch8 #volunteer .our-team .pic:after,
+body.colorswitch8 #volunteer .our-team .social,
+body.colorswitch8 .gallery-area ul.list-inline li,
+body.colorswitch8 #mission .serviceBox .service-icon,
+body.colorswitch8 #mission .serviceBox .read-more i,
+body.colorswitch8 .pagination > .active > a,
+body.colorswitch8 .pagination > .active > a:focus,
+body.colorswitch8 .pagination > .active > a:hover,
+body.colorswitch8 .pagination > .active > span,
+body.colorswitch8 .pagination > .active > span:focus,
+body.colorswitch8 .pagination > .active > span:hover{
+    background-color:#004353;
+}
+
+body.colorswitch8 .section-title span,
+body.colorswitch8 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch8 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch8 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch8 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch8 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch8 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch8 #features .feature-left .icon i,
+body.colorswitch8 #blog .post-slide .post-title > a:hover,
+body.colorswitch8 #blog .post-bar > li > a:hover,
+body.colorswitch8 .gallery-area .list-inline li.active,
+body.colorswitch8 #banner .breadcrumb li a,
+body.colorswitch8 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch8 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch8 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch8 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch8 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch8 .club-bld-grp-list h3,
+body.colorswitch8 .content404 h2{
+    color:#004353;
+}
+
+body.colorswitch8 #slider-area .carousel-caption a:hover,
+body.colorswitch8 #about .aboutme-content .my-info .more-info,
+body.colorswitch8 #mission .serviceBox:hover,
+body.colorswitch8 #mission .serviceBox:hover .read-more{
+    border-color: #004353;
+}
+
+body.colorswitch8 .btn{
+    border: 1px solid #004353;
+}
+body.colorswitch8 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #004353;
+}
+
+
+body.colorswitch8 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch8 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch8 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #004353;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 09 */
+/****************************************************************************/
+
+body.colorswitch9 .hvr-rectangle-out,
+body.colorswitch9 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch9 #slider-area .carousel-control i:hover,
+body.colorswitch9 #volunteer .our-team .pic:before,
+body.colorswitch9 #volunteer .our-team .pic:after,
+body.colorswitch9 #volunteer .our-team .social,
+body.colorswitch9 .gallery-area ul.list-inline li,
+body.colorswitch9 #mission .serviceBox .service-icon,
+body.colorswitch9 #mission .serviceBox .read-more i,
+body.colorswitch9 .pagination > .active > a,
+body.colorswitch9 .pagination > .active > a:focus,
+body.colorswitch9 .pagination > .active > a:hover,
+body.colorswitch9 .pagination > .active > span,
+body.colorswitch9 .pagination > .active > span:focus,
+body.colorswitch9 .pagination > .active > span:hover{
+    background-color:#EF6309;
+}
+
+body.colorswitch9 .section-title span,
+body.colorswitch9 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch9 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch9 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch9 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch9 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch9 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch9 #features .feature-left .icon i,
+body.colorswitch9 #blog .post-slide .post-title > a:hover,
+body.colorswitch9 #blog .post-bar > li > a:hover,
+body.colorswitch9 .gallery-area .list-inline li.active,
+body.colorswitch9 #banner .breadcrumb li a,
+body.colorswitch9 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch9 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch9 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch9 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch9 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch9 .club-bld-grp-list h3,
+body.colorswitch9 .content404 h2{
+    color:#EF6309;
+}
+
+body.colorswitch9 #slider-area .carousel-caption a:hover,
+body.colorswitch9 #about .aboutme-content .my-info .more-info,
+body.colorswitch9 #mission .serviceBox:hover,
+body.colorswitch9 #mission .serviceBox:hover .read-more{
+    border-color: #EF6309;
+}
+
+body.colorswitch9 .btn{
+    border: 1px solid #EF6309;
+}
+body.colorswitch9 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #EF6309;
+}
+
+
+body.colorswitch9 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch9 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch9 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #EF6309;
+}
+
+
+
+/****************************************************************************/
+/* colorswitch 10 */
+/****************************************************************************/
+
+body.colorswitch10 .hvr-rectangle-out,
+body.colorswitch10 #slider-area .transition-timer-carousel-progress-bar,
+body.colorswitch10 #slider-area .carousel-control i:hover,
+body.colorswitch10 #volunteer .our-team .pic:before,
+body.colorswitch10 #volunteer .our-team .pic:after,
+body.colorswitch10 #volunteer .our-team .social,
+body.colorswitch10 .gallery-area ul.list-inline li,
+body.colorswitch10 #mission .serviceBox .service-icon,
+body.colorswitch10 #mission .serviceBox .read-more i,
+body.colorswitch10 .pagination > .active > a,
+body.colorswitch10 .pagination > .active > a:focus,
+body.colorswitch10 .pagination > .active > a:hover,
+body.colorswitch10 .pagination > .active > span,
+body.colorswitch10 .pagination > .active > span:focus,
+body.colorswitch10 .pagination > .active > span:hover{
+    background-color:#CE2F86;
+}
+
+body.colorswitch10 .section-title span,
+body.colorswitch10 #main_menu .navbar-default .navbar-nav>li>a:hover,
+body.colorswitch10 #main_menu .navbar-default .navbar-nav>li>a:focus,
+body.colorswitch10 #main_menu .main_menu_bg .navbar-default .navbar-nav>.active>a,
+body.colorswitch10 #main_menu .navbar-default .navbar-nav>.active>a:hover,
+body.colorswitch10 #main_menu .navbar-default .navbar-nav>.active>a:focus,
+body.colorswitch10 #main_menu .dropdown .dropdown-menu > li > a:hover,
+body.colorswitch10 #features .feature-left .icon i,
+body.colorswitch10 #blog .post-slide .post-title > a:hover,
+body.colorswitch10 #blog .post-bar > li > a:hover,
+body.colorswitch10 .gallery-area .list-inline li.active,
+body.colorswitch10 #banner .breadcrumb li a,
+body.colorswitch10 .testimonial #quote-carousel .item blockquote p:before,
+body.colorswitch10 .Right-Side-Bar .Side-Recent-News-Post>ul>li:hover>.text>h6>a,
+body.colorswitch10 .Right-Side-Bar .Side-Upcoming-Events>ul>li:hover>.text>h6>a,
+body.colorswitch10 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover,
+body.colorswitch10 .Right-Side-Bar .Side-Our-Programs>ul>li>a:hover>i,
+body.colorswitch10 .club-bld-grp-list h3,
+body.colorswitch10 .content404 h2{
+    color:#CE2F86;
+}
+
+body.colorswitch10 #slider-area .carousel-caption a:hover,
+body.colorswitch10 #about .aboutme-content .my-info .more-info,
+body.colorswitch10 #mission .serviceBox:hover,
+body.colorswitch10 #mission .serviceBox:hover .read-more{
+    border-color: #CE2F86;
+}
+
+body.colorswitch10 .btn{
+    border: 1px solid #CE2F86;
+}
+body.colorswitch10 .gallery-area .list-inline li.active{
+    background-color: transparent;
+    border: 1px solid #CE2F86;
+}
+
+
+body.colorswitch10 #mission .serviceBox:hover .service-icon{
+    background: #dcdcdc;
+    color: #ffffff;
+}
+body.colorswitch10 #mission .serviceBox:hover .service-icon:after{
+    border-top-color: #dcdcdc;
+}
+body.colorswitch10 #mission .serviceBox .service-icon::after {
+    border-top: 10px solid #CE2F86;
+}
+
+

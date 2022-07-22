@@ -1,0 +1,52 @@
+section{
+	margin:120px 0
+}
+#blood-group-banner{
+	background-image: url("../images/blood.jpg");
+	height: 550px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -22px;
+}
+#blood-group-banner h1{
+	color:#ffffff;
+	padding: 150px 0;
+	text-transform: uppercase;
+	font-size: 50px;
+	font-family: Times New Roman;
+}
+#blood-group-banner h1 span{
+	font-size: 90px;
+	letter-spacing: 25px;
+	margin: 20px;
+	display: inline-block;
+}
+
+
+
+table caption{
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:35px;
+	color:red;
+	margin-bottom: 50px;
+}
+table caption img{
+	margin: 0 auto;
+	margin-bottom: -40px;
+}
+table caption small{
+	font-style: 20px;
+}
+table thead tr th, table tr td{
+	text-transform:uppercase;
+	text-align:center;
+}
+.numberHide{
+			display:none;
+			color:red;
+			font-weight:bold;
+		}
+
